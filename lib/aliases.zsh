@@ -26,7 +26,4 @@ alias sl=ls # often screw this up
 alias afind='ack-grep -il'
 
 
-#created on 2013.3.18
-#global alias!
-alias sv='nocorrect sudo vim'
 

@@ -8,3 +8,7 @@ alias gist='nocorrect gist'
 alias heroku='nocorrect heroku'
 alias ebuild='nocorrect ebuild'
 alias hpodder='nocorrect hpodder'
+
+#created on 2013.3.18
+alias sv='nocorrect sudo vim'
+
