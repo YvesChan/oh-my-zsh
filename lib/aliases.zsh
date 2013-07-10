@@ -24,6 +24,8 @@ alias la='ls -AlF'
 alias sl=ls # often screw this up
 
 alias afind='ack-grep -il'
-
+alias df='df -h'
+alias rm='mv -t /tmp'
+alias du='du -hs'
 
 
