@@ -40,4 +40,4 @@ source $ZSH/oh-my-zsh.sh
 export PATH=/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
-source .zshenv            # Load ZSH environment(for ruby)
+source $HOME/.zshenv            # Load ZSH environment(for ruby)
