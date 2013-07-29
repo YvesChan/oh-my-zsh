@@ -27,5 +27,5 @@ alias afind='ack-grep -il'
 alias df='df -h'
 alias rm='mv -t /tmp'
 alias du='du -hs'
-
-
+alias st='sublime'
+alias psg='ps -elf | grep'
